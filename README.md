@@ -4,7 +4,7 @@ This is the application to apply for the Front End Developer position at Critica
 
 ## Work / Project Examples
 
-Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master)to explore the web app.
+Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
 
 ## Inspiration
 
