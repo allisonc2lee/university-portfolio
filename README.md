@@ -94,40 +94,40 @@ This is the application to apply for the Front End Developer position at Critica
    }
    ```
 
-With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed. It also shows us another possibility that developer can use CSS Grid to align HTML elements to create web animation without using SVG. Although it may not be the best practice, it shows another possibility to developer to experiment this method. Developer now have more flexability to create a better responsive design using CSS Grid, as this inspiration shows:
+   With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed. It also shows us another possibility that developer can use CSS Grid to align HTML elements to create web animation without using SVG. Although it may not be the best practice, it shows another possibility to developer to experiment this method. Developer now have more flexability to create a better responsive design using CSS Grid, as this inspiration shows:
 
-```
+   ```
 
-.kitchen {
-grid-row: 1 / span 3;
-grid-column: 3 / span 2;
-.island {
-position: absolute;
-width: 100px;
-height: 45px;
-@include utility-border;
-top: 100px;
-left: 50px;
-&:before,
-&:after,
-.chair {
-content: "";
-position: absolute;
-width: 25px;
-height: 25px;
-bottom: -35px;
-border-radius: 50%;
-@include utility-border;
-left: 5px;
-background: \$color-shade;
-}
-}
+   .kitchen {
+   grid-row: 1 / span 3;
+   grid-column: 3 / span 2;
+   .island {
+   position: absolute;
+   width: 100px;
+   height: 45px;
+   @include utility-border;
+   top: 100px;
+   left: 50px;
+   &:before,
+   &:after,
+   .chair {
+   content: "";
+   position: absolute;
+   width: 25px;
+   height: 25px;
+   bottom: -35px;
+   border-radius: 50%;
+   @include utility-border;
+   left: 5px;
+   background: \$color-shade;
+   }
+   }
 
-```
+   ```
 
-We are able to use position within the grid item to create our graphic. It makes our CSS code look much more clean that we can maintain and modifiy easier later.
+   We are able to use position within the grid item to create our graphic. It makes our CSS code look much more clean that we can maintain and modifiy easier later.
 
-This example shows that CSS Grid removes many limitations that existed in the front end world. And it eases the border between developer and designer since it provides a better for them to communicate and work together. Designer can design fancier and unique web layout and developer can create the design without worring the 12-column grids!
+   This example shows that CSS Grid removes many limitations that existed in the front end world. And it eases the border between developer and designer since it provides a better for them to communicate and work together. Designer can design fancier and unique web layout and developer can create the design without worring the 12-column grids!
 
 ## Focus
 
