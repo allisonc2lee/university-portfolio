@@ -59,7 +59,38 @@ This is the application to apply for the Front End Developer position at Critica
 
    This Codepen inspires me to use CSS Grid in a more interesting way and experiment the limit of the method. And I now think about web layout in new ways. Although the CSS Grid itself is very visual and I use pen and paper to sketch out my grid layout before writing any CSS code, I have never had an idea to design a flat design using CSS Grid. I use CSS Grid for web layout only so far, and I thought it is the only way to use CSS Grid on site.
 
-   This Codepen uses CSS Grid and CSS transforms property to create the floor plan, it does not include any JavaScript and additional library. With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed.
+   This Codepen uses CSS Grid and CSS transforms property to create the floor plan, it does not include any JavaScript and additional library. With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed. It also shows us another possibility that developer can use CSS Grid to align HTML elements to create web animation without using SVG. Although it may not be the best practice, it shows another possibility to developer to experiment this method.
+
+   Developer now have more flexability to create a better responsive design using CSS Grid, as this inspiration shows:
+
+   ```
+   kitchen {
+   ;
+   ;
+   {
+   ;
+   ;
+   ;
+   ;
+   ;
+   ;
+   ,
+   ,
+   {
+   ;
+   ;
+   ;
+   ;
+   ;
+   ;
+   ;
+   ;
+   ;
+   }
+   }
+   ```
+
+   We are able to use position within the grid item to create our graphic. It makes our CSS code look much more clean that we can maintain and modifiy easier later.
 
    This example shows that CSS Grid removes many limitations that existed in the front end world. And it eases the border between developer and designer since it provides a better for them to communicate and work together. Designer can design fancier and unique web layout and developer can create the design without worring the 12-column grids!
 
