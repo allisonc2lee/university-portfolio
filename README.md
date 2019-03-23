@@ -152,7 +152,3 @@ Nowadays, CSS Grid has better browser support and being one of the popular layou
 ## CodeChallenge
 
 Please See the link here [CodeSandBox](https://codesandbox.io/s/3v13wv4v7p)
-
-```
-
-```
