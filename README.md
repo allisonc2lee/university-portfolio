@@ -94,9 +94,7 @@ This is the application to apply for the Front End Developer position at Critica
    }
    ```
 
-```
-
-   With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed. It also shows us another possibility that developer can use CSS Grid to align HTML elements to create web animation without using SVG. Although it may not be the best practice, it shows another possibility to developer to experiment this method. Developer now have more flexability to create a better responsive design using CSS Grid, as this inspiration shows:
+With CSS Grid, we can do a lot of interesting web graphic without adding an image which will low down the page speed. It also shows us another possibility that developer can use CSS Grid to align HTML elements to create web animation without using SVG. Although it may not be the best practice, it shows another possibility to developer to experiment this method. Developer now have more flexability to create a better responsive design using CSS Grid, as this inspiration shows:
 
 ```
 
@@ -154,4 +152,7 @@ Nowadays, CSS Grid has better browser support and being one of the popular layou
 ## CodeChallenge
 
 Please See the link here [CodeSandBox](https://codesandbox.io/s/3v13wv4v7p)
+
+```
+
 ```
