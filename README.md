@@ -4,14 +4,11 @@ This is the application to apply for the Front End Developer position at Critica
 
 ## Work / Project Examples
 
-- Lethbridge Food Guide
-  Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
+- Lethbridge Food Guide: Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
 
-- Textbooks of Terrors
-  Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
+- Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
 
-- The Study of CSS Grid
-  Please see the link here [The Study of CSS Grid](http://jekyll.chingchinglee.com/projects/the_study_of_css_grid/) to check the project.
+- The Study of CSS Grid: Please see the link here [The Study of CSS Grid](http://jekyll.chingchinglee.com/projects/the_study_of_css_grid/) to check the project.
 
 ## Inspiration
 
