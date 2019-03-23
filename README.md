@@ -41,7 +41,17 @@ This is the application to apply for the Front End Developer position at Critica
 
    This youtube video inspires me to rethink the definition of "responsive design" and how to create a modern responsive design. Before I watched this youtube video, I was creating the web for the machine because I thought responsive design simply mean resize the element, and make it fit on every device. Human and machine are two kinds of audiences, machine only needs the code and training data to understand the functionality of the app, but human needs logical website structure and graphic design to understand the purpose and data of the web app. Therefore, responsive design should respond to logical functionality as well.
 
-   This video shows the method to load in different versions of the same image based on the size of the viewport or the pixel density of the user's device. If we only set `{img: 100%;}`, it will be responsive but it may not make sense to human. When users start narrowing the screen device, the browser is going to increase the screen height. On the mobile device, it may be very difficult to see the small detail on the image. Also, it is not ideal if we use a larger image to handle the responsive design because it takes time to download for mobile users. From this video, I learned how to use HTML srcset to set different image based on the size of the viewport. So then, both machine and human can understand the functionality and content of the web.
+   This video shows the method to load in different versions of the same image based on the size of the viewport or the pixel density of the user's device. If we only set `{img: 100%;}`, it will be responsive but it may not make sense to human. When users start narrowing the screen device, the browser is going to increase the screen height. On the mobile device, it may be very difficult to see the small detail on the image. Also, it is not ideal if we use a larger image to handle the responsive design because it takes time to download for mobile users. Instead of only setting `{img: 100%}`, it does not hurt if we use:
+
+   ```
+   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-500.jpg"
+     srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-500.jpg 500w,
+             https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-1000.jpg 1000w"
+     sizes="(min-width: 600px) 50vw, 100vw"
+     alt="">
+   ```
+
+   to display different images based on based on the size of the viewport. It provides a better UI and UX, and also fix the large image donwload problem.
 
 ---
 
