@@ -8,6 +8,11 @@ This is the application to apply for the Front End Developer position at Critica
    
   Role: Web Developer and Designer
   
+  Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
+  
+  This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic. 
+  
+  
 ***
 - Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
 
