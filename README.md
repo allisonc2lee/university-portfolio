@@ -6,34 +6,34 @@ This is the application to apply for the Front End Developer position at Critica
 
 1. Lethbridge Food Guide: Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
 
-Role: Web Developer and Designer
+   Role: Web Developer and Designer
 
-Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
+   Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
 
-This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic.
+   This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic.
 
 ---
 
 2. Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
 
-Role: UI Designer
+   Role: UI Designer
 
-Idea:
-The idea behind the app was generated largely at Coalbanks elementary school. We met with a small group of grade 5 students and spoke with them about the types of apps they used, and what they like about them. We also spoke to them about what they were learning about in school and what they would like to see in an educational app. The grade 5s were very vocal about their experiences with apps and what they hoped to see in an app. From that discussion, we came up with our idea.
+   Idea:
+   The idea behind the app was generated largely at Coalbanks elementary school. We met with a small group of grade 5 students and spoke with them about the types of apps they used, and what they like about them. We also spoke to them about what they were learning about in school and what they would like to see in an educational app. The grade 5s were very vocal about their experiences with apps and what they hoped to see in an app. From that discussion, we came up with our idea.
 
-The App will take place as a story/adventure game wherein the Coalbanks school mascot Colby (above) will approach the player and ask them to come to Coalbanks school, where the teachers of the school have been taken/imprisoned by their Alter Egos. The player has to save the teachers by exploring the school, finding the teacher’s classrooms and solving various puzzles or questions posed by the Alter Egos of the school. The activities will be linked to the GLOs and SLOs of the Grade 4/5 alberta curriculum. The game is over when all the teachers have been freed.
+   The App will take place as a story/adventure game wherein the Coalbanks school mascot Colby (above) will approach the player and ask them to come to Coalbanks school, where the teachers of the school have been taken/imprisoned by their Alter Egos. The player has to save the teachers by exploring the school, finding the teacher’s classrooms and solving various puzzles or questions posed by the Alter Egos of the school. The activities will be linked to the GLOs and SLOs of the Grade 4/5 alberta curriculum. The game is over when all the teachers have been freed.
 
-Our app is specifically designed for Coalbanks elementary school and their students. Therefore, we will simulate the real environment of the school. The following elements will be included:
+   Our app is specifically designed for Coalbanks elementary school and their students. Therefore, we will simulate the real environment of the school. The following elements will be included:
 
-- Photos of the environment of Coalbanks (such as Hallway, classrooms)
-- Colby as the game’s instructor/helper
-- Cartoon drawing of their teachers
-- Sound effects and animation
-- Missions and Tasks: to solve Academic questions
+   - Photos of the environment of Coalbanks (such as Hallway, classrooms)
+   - Colby as the game’s instructor/helper
+   - Cartoon drawing of their teachers
+   - Sound effects and animation
+   - Missions and Tasks: to solve Academic questions
 
-Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school.
+   Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school.
 
-My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
+   My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
 
 ## Inspiration
 
