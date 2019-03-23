@@ -8,7 +8,8 @@ This is the application to apply for the Front End Developer position at Critica
    
   Role: Web Developer and Designer
   Contributions: 
-
+  
+***
 - Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
 
   Role: UI Designer
@@ -28,7 +29,7 @@ This is the application to apply for the Front End Developer position at Critica
 
    My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
 
-
+***
 - The Study of CSS Grid: Please see the link here [The Study of CSS Grid](http://jekyll.chingchinglee.com/projects/the_study_of_css_grid/) to check the project.
 
   Role: Web Developer and Designer
