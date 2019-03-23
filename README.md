@@ -22,9 +22,9 @@ This is the application to apply for the Front End Developer position at Critica
    * Sound effects and animation
    * Missions and Tasks: to solve Academic questions 
 
-Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school. 
+   Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school. 
 
-My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
+   My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
 
 
 - The Study of CSS Grid: Please see the link here [The Study of CSS Grid](http://jekyll.chingchinglee.com/projects/the_study_of_css_grid/) to check the project.
