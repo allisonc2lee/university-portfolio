@@ -12,7 +12,6 @@ This is the application to apply for the Front End Developer position at Critica
   
   This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic. 
   
-  
 ***
 - Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
 
@@ -34,12 +33,6 @@ This is the application to apply for the Front End Developer position at Critica
    Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school. 
 
    My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
-
-***
-- The Study of CSS Grid: Please see the link here [The Study of CSS Grid](http://jekyll.chingchinglee.com/projects/the_study_of_css_grid/) to check the project.
-
-  Role: Web Developer and Designer
-  Contributions: 
 
 ## Inspiration
 
