@@ -4,37 +4,48 @@ This is the application to apply for the Front End Developer position at Critica
 
 ## Work / Project Examples
 
-- Lethbridge Food Guide: Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
-   
-  Role: Web Developer and Designer
-  
-  Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
-  
-  This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic. 
-  
-***
-- Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
+1. Lethbridge Food Guide: Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
 
-  Role: UI Designer
-  
-  Idea: 
-  The idea behind the app was generated largely at Coalbanks elementary school.  We met with a small group of grade 5 students and spoke with them about the types of apps they used, and what they like about them.  We also spoke to them about what they were learning about in school and what they would like to see in an educational app.  The grade 5s were very vocal about their experiences with apps and what they hoped to see in an app.  From that discussion, we came up with our idea.
-   
-   The App will take place as a story/adventure game wherein the Coalbanks school mascot Colby (above) will approach the player and ask them to come to Coalbanks school, where the teachers of the school have been taken/imprisoned by their Alter Egos. The player has to save the teachers by exploring the school, finding the teacher’s classrooms and solving various puzzles or questions posed by the Alter Egos of the school. The activities will be linked to the GLOs and SLOs of the Grade 4/5 alberta curriculum. The game is over when all the teachers have been freed. 
-  
-   Our app is specifically designed for Coalbanks elementary school and their students. Therefore, we will simulate the real environment of the school. The following elements will be included: 
+Role: Web Developer and Designer
 
-   * Photos of the environment of Coalbanks (such as Hallway, classrooms)
-   * Colby as the game’s instructor/helper
-   * Cartoon drawing of their teachers
-   * Sound effects and animation
-   * Missions and Tasks: to solve Academic questions 
+Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
 
-   Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school. 
+This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic.
 
-   My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
+---
+
+2. Textbooks of Terrors: Please see the link here [Textbooks of Terrors](http://jekyll.chingchinglee.com/projects/textbooks_of_terrors/) to explore this Education App.
+
+Role: UI Designer
+
+Idea:
+The idea behind the app was generated largely at Coalbanks elementary school. We met with a small group of grade 5 students and spoke with them about the types of apps they used, and what they like about them. We also spoke to them about what they were learning about in school and what they would like to see in an educational app. The grade 5s were very vocal about their experiences with apps and what they hoped to see in an app. From that discussion, we came up with our idea.
+
+The App will take place as a story/adventure game wherein the Coalbanks school mascot Colby (above) will approach the player and ask them to come to Coalbanks school, where the teachers of the school have been taken/imprisoned by their Alter Egos. The player has to save the teachers by exploring the school, finding the teacher’s classrooms and solving various puzzles or questions posed by the Alter Egos of the school. The activities will be linked to the GLOs and SLOs of the Grade 4/5 alberta curriculum. The game is over when all the teachers have been freed.
+
+Our app is specifically designed for Coalbanks elementary school and their students. Therefore, we will simulate the real environment of the school. The following elements will be included:
+
+- Photos of the environment of Coalbanks (such as Hallway, classrooms)
+- Colby as the game’s instructor/helper
+- Cartoon drawing of their teachers
+- Sound effects and animation
+- Missions and Tasks: to solve Academic questions
+
+Both audience groups will gain benefits from this app. On the one hand, Coalbanks elementary school can promote their school in a more interesting and modern way. On the other hand, their students can learn useful academic knowledge as well as get additional information about their school.
+
+My main role is to design the path of the game, and how/where to put the UI elements in order to lead a logical store flow, and make sure students can understand the functionality of the app.
 
 ## Inspiration
+
+1. [srcset and sizes attributes](https://www.youtube.com/watch?v=2QYpkrX2N48)
+
+   This youtube video inspires me to rethink the definition of "responsive design" and how to create a modern responsive design. Before I watched this youtube video, I was creating the web for the machine because I thought responsive design simply mean resize the element, and make it fit on every device. Human and machine are two kinds of audiences, machine only needs the code and training data to understand the functionality of the app, but human needs logical website structure and graphic design to understand the purpose and data of the web app. Therefore, responsive design should respond to logical functionality as well.
+
+   This video shows the method to load in different versions of the same image based on the size of the viewport or the pixel density of the user's device. If we only set `{img: 100%;}`, it will be responsive but it may not make sense to human. When users start narrowing the screen device, the browser is going to increase the screen height. On the mobile device, it may be very difficult to see the small detail on the image. Also, it is not ideal if we use a larger image to handle the responsive design because it takes time to download for mobile users. From this video, I learned how to use HTML srcset to set different image based on the size of the viewport. So then, both machine and human can understand the functionality and content of the web.
+
+---
+
+2.
 
 ## Focus
 
@@ -48,8 +59,7 @@ If I am lucky enough to be select to be one of the team member this summer, I'd 
 
    CSS Grid provides the possibility for us to create a responsive and unique web layout which makes our web apps look awesome and different! With CSS Grid, we can make an awesome layout without adding JavaScript. Also, we can maintain and understand our code easier. As I said before, mobile device is taking over the web market. Therefore, most of the web apps are going to show on a specific resolution and width. Therefore, using CSS Grid can provide a wonderful UI and UX for this environment.
 
-   Nowadays, CSS Grid has better browser support and being one of the popular layout methods. I am so excited to learn the CSS Grid 2.0 (subgrid) and use CSS Grid in a more interesting way. 
-   
+   Nowadays, CSS Grid has better browser support and being one of the popular layout methods. I am so excited to learn the CSS Grid 2.0 (subgrid) and use CSS Grid in a more interesting way.
 
 ## CodeChallenge
 
