@@ -17,7 +17,7 @@ This is the application to apply for the Front End Developer position at Critica
 
 ## Focus
 
-If I am lucky enough to be select to be one of the team member this summer, I'd love to spend my time learning 1. [PWA](https://developers.google.com/web/progressive-web-apps/) and 2. [React](https://reactjs.org/), and also mastering my favourite langauge CSS, specifically 3. [CSS GRID](https://learn.freecodecamp.org/responsive-web-design/css-grid/).
+If I am lucky enough to be select to be one of the team member this summer, I'd love to spend my time learning 1. [PWA](https://developers.google.com/web/progressive-web-apps/) and 2. [React](https://reactjs.org/), and also mastering my favourite langauge CSS, specifically 3. [CSS GRID](https://learn.freecodecamp.org/responsive-web-design/css-grid/). I will spend most of my time learning React since the high demand, and I prefer to add CSS Grid to the web project. I will spend my own time to learn PWA, and communciate with other developers to know their opinions and experience on PWA.
 
 1. Since mobile device has dominated the majority of the web market. Most users still spend most of their time playing native apps instead of searching web apps. Therefore, users are not engaged much. With PWA, users can download the app web to their mobile device with one-click, and they can use it whenever they want and take all the main information and function from the web app. I believe it is the future trend of the web development market, and Google has highly promoted this PWA concept. It is always a good idea to learn the new trend and skills as soon as possible in order to launch the PWA when the market is ready.
 
@@ -27,7 +27,8 @@ If I am lucky enough to be select to be one of the team member this summer, I'd 
 
    CSS Grid provides the possibility for us to create a responsive and unique web layout which makes our web apps look awesome and different! With CSS Grid, we can make an awesome layout without adding JavaScript. Also, we can maintain and understand our code easier. As I said before, mobile device is taking over the web market. Therefore, most of the web apps are going to show on a specific resolution and width. Therefore, using CSS Grid can provide a wonderful UI and UX for this environment.
 
-   Nowadays, CSS Grid has better browser support and being one of the popular layout methods. I am so excited to learn the CSS Grid 2.0 (subgrid) and use CSS Grid in a more interesting way.
+   Nowadays, CSS Grid has better browser support and being one of the popular layout methods. I am so excited to learn the CSS Grid 2.0 (subgrid) and use CSS Grid in a more interesting way. 
+   
 
 ## CodeChallenge
 
