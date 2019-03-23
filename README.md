@@ -17,7 +17,7 @@ This is the application to apply for the Front End Developer position at Critica
 
 ## Focus
 
-If I am lucky enough to be select to be one of the team member this summer, I'd love to spend my time learning 1. [PWA](https://developers.google.com/web/progressive-web-apps/) and 2. [React](https://reactjs.org/), and also mastering my favourite langauge CSS, specifically 3. [CSS GRID][https://learn.freecodecamp.org/responsive-web-design/css-grid/].
+If I am lucky enough to be select to be one of the team member this summer, I'd love to spend my time learning 1. [PWA](https://developers.google.com/web/progressive-web-apps/) and 2. [React](https://reactjs.org/), and also mastering my favourite langauge CSS, specifically 3. [CSS GRID](https://learn.freecodecamp.org/responsive-web-design/css-grid/).
 
 1. Since mobile device has dominated the majority of the web market. Most users still spend most of their time playing native apps instead of searching web apps. Therefore, users are not engaged much. With PWA, users can download the app web to their mobile device with one-click, and they can use it whenever they want and take all the main information and function from the web app. I believe it is the future trend of the web development market, and Google has highly promoted this PWA concept. It is always a good idea to learn the new trend and skills as soon as possible in order to launch the PWA when the market is ready.
 
