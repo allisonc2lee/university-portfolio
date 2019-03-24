@@ -114,19 +114,20 @@ This is the application to apply for the Front End Developer position at Critica
          @include utility-border;
          top: 100px;
          left: 50px;
-         &:before,
-         &:after,
-         .chair {
-            @include utility-border;
-            content: "";
-            position: absolute;
-            width: 25px;
-            height: 25px;
-            bottom: -35px;
-            border-radius: 50%;
-            left: 5px;
-            background: \$color-shade;
-      }
+         
+            &:before,
+            &:after,
+            .chair {
+               @include utility-border;
+               content: "";
+               position: absolute;
+               width: 25px;
+               height: 25px;
+               bottom: -35px;
+               border-radius: 50%;
+               left: 5px;
+               background: \$color-shade;
+         }
    }
 
    ```
