@@ -53,6 +53,8 @@ This is the application to apply for the Front End Developer position at Critica
 
    to display different images based on based on the size of the viewport. It provides a better UI and UX, and also fix the large image donwload problem.
 
+   HTML, CSS and JavaScript is a part of the responsive design. Getting a better understanding of how responsive design function is the requirement to coding an user-friendly site.
+
 ---
 
 2. [CSS Grid: Floor Plan](https://codepen.io/oliviale/pen/moLrBq)
