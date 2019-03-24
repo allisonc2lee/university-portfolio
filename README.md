@@ -45,10 +45,10 @@ This is the application to apply for the Front End Developer position at Critica
 
    ```
    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-500.jpg"
-     srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-500.jpg 500w,
-             https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-1000.jpg 1000w"
-     sizes="(min-width: 600px) 50vw, 100vw"
-     alt="">
+        srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-500.jpg 500w,
+                https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/cat-1000.jpg 1000w"
+        sizes="(min-width: 600px) 50vw, 100vw"
+        alt="">
    ```
 
    to display different images based on based on the size of the viewport. It provides a better UI and UX, and also fix the large image donwload problem.
@@ -65,34 +65,37 @@ This is the application to apply for the Front End Developer position at Critica
 
    ```
    .bathroom-2 {
-   grid-column: 5 / span 2;
-   @include border;
-   border-width: 0 0 4px 4px;
-   .rug {
-   width: 45px;
-   height: 25px;
-   top: 45%;
-   left: 25px;
-   transform: rotate(-40deg);
-   z-index: 20;
-   }
-   .door-hor {
-   bottom: -4px;
-   left: 40px;
-   transform: rotate(180deg);
-   }
-   .window-hor {
-   left: 30px;
-   }
-   .toilet {
-   left: auto;
-   right: 8px;
-   }
-   .vanity {
-   bottom: auto;
-   top: -2px;
-   width: 50px;
-   }
+      grid-column: 5 / span 2;
+      @include border;
+      border-width: 0 0 4px 4px;
+      
+         .rug {
+            width: 45px;
+            height: 25px;
+            top: 45%;
+            left: 25px;
+            transform: rotate(-40deg);
+            z-index: 20;
+         }
+         
+         .door-hor {
+            bottom: -4px;
+            left: 40px;
+            transform: rotate(180deg);
+         }
+         
+         .window-hor {
+            left: 30px;
+         }
+         .toilet {
+            left: auto;
+            right: 8px;
+         }
+         .vanity {
+            bottom: auto;
+            top: -2px;
+            width: 50px;
+         }
    }
    ```
 
@@ -101,28 +104,29 @@ This is the application to apply for the Front End Developer position at Critica
    ```
 
    .kitchen {
-   grid-row: 1 / span 3;
-   grid-column: 3 / span 2;
-   .island {
-   position: absolute;
-   width: 100px;
-   height: 45px;
-   @include utility-border;
-   top: 100px;
-   left: 50px;
-   &:before,
-   &:after,
-   .chair {
-   content: "";
-   position: absolute;
-   width: 25px;
-   height: 25px;
-   bottom: -35px;
-   border-radius: 50%;
-   @include utility-border;
-   left: 5px;
-   background: \$color-shade;
-   }
+      grid-row: 1 / span 3;
+      grid-column: 3 / span 2;
+      
+      .island {
+         position: absolute;
+         width: 100px;
+         height: 45px;
+         @include utility-border;
+         top: 100px;
+         left: 50px;
+         &:before,
+         &:after,
+         .chair {
+         content: "";
+         position: absolute;
+         width: 25px;
+         height: 25px;
+         bottom: -35px;
+         border-radius: 50%;
+         @include utility-border;
+         left: 5px;
+         background: \$color-shade;
+      }
    }
 
    ```
