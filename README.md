@@ -8,9 +8,9 @@ This is the application to apply for the Front End Developer position at Critica
 
    Role: Web Developer and Designer
 
-   Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge is kind of dry for young people and new students since we do not know where to eat and where to hang out with our friends. Or sometimes, we just have no idea where should we dine out. I'd like to make Lethbridge more interesting by providing information to the residents here. Instead of providing specific data to users, this app will provide a random reason to the user. It is fun to explore the city if we get random restaurant information.
+   Idea: This is version 2.0 of my Food Guide app. Living in Lethbridge can be difficult for young people and new students who are looking for places to hangout at with friends, or restaurants to dine at. I'd like to make Lethbridge more interesting by providing information about popular places to eat at to the residents here. Instead of providing specific data to users, this app will provide a random result.
 
-   This is my first individual web project, I was learning React online after my internship and part-time job. I create custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not put too much CSS element. The UI design is very similar to my first project, but it is more responsive and dynamic.
+After my internship and part-time job, this is my first individual web project that I worked on while learning React. I created custom components to call and render the Zomato API. For this project, my main focus is the functionality and React, therefore, I did not spend as much time with the CSS. The UI design is very similar to my first project, but it is more responsive and dynamic.
 
 ---
 
@@ -59,9 +59,7 @@ This is the application to apply for the Front End Developer position at Critica
 
 2. [CSS Grid: Floor Plan](https://codepen.io/oliviale/pen/moLrBq)
 
-   This Codepen inspires me to use CSS Grid in a more interesting way and experiment the limit of the method. And I now think about web layout in new ways. Although the CSS Grid itself is very visual and I use pen and paper to sketch out my grid layout before writing any CSS code, I have never had an idea to design a flat design using CSS Grid. I use CSS Grid for web layout only so far, and I thought it is the only way to use CSS Grid on site.
-
-   This Codepen uses CSS Grid and CSS transforms property to create the floor plan, it does not include any JavaScript and additional library.
+   This Codepen inspires me to use CSS Grid in a more interesting way and experiment with the limits of this method. Now I think about web layout in new ways. This Codepen uses CSS Grid and CSS transforms property to create the floor plan, it does not include any JavaScript or additional library.
 
    ```
    .bathroom-2 {
