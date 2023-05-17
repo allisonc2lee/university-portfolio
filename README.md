@@ -1,7 +1,3 @@
-# CHING CHING LEE's Front End Developer Intern Application
-
-This is the application to apply for the Front End Developer position at Critical Mass (Calgary) this summer. See the notes below to find out my interests, skills and projects.
-
 ## Work / Project Examples
 
 1. Lethbridge Food Guide: Please see the link here [Lethbridge Food Guide](https://github.com/leechingching/leth-food-master) to explore the web app.
